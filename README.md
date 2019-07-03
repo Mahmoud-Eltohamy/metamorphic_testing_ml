@@ -46,6 +46,14 @@ indicate that the algorithm has some faults in it [5].
 
 ![alt text](./media/1851a2d9-59b6-4fe3-b4c4-4b01b8fdeeb0.jpg)
 
+## examples of tests applied
+
+metamorphic_testing_ml
+
+
+In March 2018, Zhou and Sun applied metamorphic testing to driverless cars. They "detected fatal software faults in the LiDAR obstacle-perception module of self-driving cars and reported the alarming results eight days before Uber's deadly crash in Tempe, AZ" [16]. In August 2018, Google acquired GraphicsFuzz, a startup from Imperial College London, to apply metamorphic testing to graphics device drivers for Android smartphones [17]. 
+-----------------
+
 ## Next steps
 
 Actual implementation for an ml project testing using metamorphic testing (on
