@@ -1,6 +1,6 @@
 # Metamorphic Testing for Validation of ML/DL Models
 ## The problem
-Find the suitable ways to solve the test Oracle problem [1][1] in AI/ML/DL
+Find the suitable ways to solve the test Oracle problem [1] in AI/ML/DL
 software (in a simple way find an approach to an end to end functional testing
 for AI which considered as a non-testable system).
 ## Introduction
