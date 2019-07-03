@@ -50,9 +50,11 @@ indicate that the algorithm has some faults in it [5].
 
 metamorphic_testing_ml
 
-
+------------------------------
 In March 2018, Zhou and Sun applied metamorphic testing to driverless cars. They "detected fatal software faults in the LiDAR obstacle-perception module of self-driving cars and reported the alarming results eight days before Uber's deadly crash in Tempe, AZ" [16]. In August 2018, Google acquired GraphicsFuzz, a startup from Imperial College London, to apply metamorphic testing to graphics device drivers for Android smartphones [17]. 
------------------
+------------------------------
+http://slides.com/karfianto/software-testing-and-analysis#/7
+------------------------------
 
 ## Next steps
 
