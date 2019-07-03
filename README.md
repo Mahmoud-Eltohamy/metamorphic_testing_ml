@@ -54,7 +54,7 @@ conducted to the model will be limited by human efforts, and expanding the test
 cases, for example increasing the sampling size and varieties significantly with
 online testing, would be a problem.
 
-![https://www.houseofbots.com/images/news/11493/cover.png](media/2fb2c2d092dd96b9c3462a81455b1b8a.jpg)
+![alt text](media/2fb2c2d092dd96b9c3462a81455b1b8a.jpg)
 
 Pseudo-oracle and metamorphic testing [[^4]], means that we can have multiple
 implementations solving the same problem verifying each other. The outputs of
@@ -73,7 +73,7 @@ doi:10.1186/1471-2105-15-S16-S15
 
 ![https://dzone.com/storage/temp/10106619-screen-shot-2018-08-29-at-104915-am.png](media/5b619f225d24bc31a788d78251148946.png)
 
-[./media/image4.png](./media/image4.png)
+![alt text](./media/1851a2d9-59b6-4fe3-b4c4-4b01b8fdeeb0.jpg)
 ----------------------------------------
 
 Next steps
