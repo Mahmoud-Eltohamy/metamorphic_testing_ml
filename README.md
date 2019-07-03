@@ -1,10 +1,5 @@
----
-title: "Metamorphic Testing for Validation of ML/DL Models\_"
----
-
-The problem
------------
-
+# Metamorphic Testing for Validation of ML/DL Models
+## The problem
 Find the suitable ways to solve the test Oracle problem [[^1]] in AI/ML/DL
 software (in a simple way find an approach to an end to end functional testing
 for AI which considered as a non-testable system).
@@ -13,9 +8,7 @@ for AI which considered as a non-testable system).
 Volume 25, Issue 4, November 1982, Pages 465–470,
 https://doi.org/10.1093/comjnl/25.4.465
 
-Introduction
-------------
-
+## Introduction
 In software testing, Test oracle is a mechanism that can tell you whether a
 program is working correctly or not. For the simplest case, an oracle could be a
 direct comparison of the output of the program with the correct answer.
@@ -31,10 +24,9 @@ Test oracle has different types Perfect Oracle, Gold standard Oracle, Parametric
 Oracle, Statistical Oracle, etc… the most common is the statistical Oracle (a
 type of parametric oracle).
 
-![enter image description here](media/2f6ba4e32ba35027660e28d6d4096b47.jpg)
+![alt text](media/2f6ba4e32ba35027660e28d6d4096b47.jpg)
 
-The ML System Under Test
-------------------------
+## The ML System Under Test
 
 Testing machine learning and AI algorithms is hard [[^3]] as scientific software
 differs significantly from the development of more traditional business
