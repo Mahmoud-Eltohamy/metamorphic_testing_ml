@@ -1,6 +1,6 @@
 # Metamorphic Testing for Validation of ML/DL Models
 ## The problem
-Find the suitable ways to solve the test Oracle problem [^1] in AI/ML/DL
+Find the suitable ways to solve the test Oracle problem [1][1] in AI/ML/DL
 software (in a simple way find an approach to an end to end functional testing
 for AI which considered as a non-testable system).
 ## Introduction
@@ -57,7 +57,7 @@ going).
 Using pseudo-oracles or metamorphic testing reduces testing effort and enables
 bug to be found that might otherwise be overlooked.
 
-[^1]: Elaine J. Weyuker, On Testing Non-Testable Programs, The Computer Journal, Volume 25, Issue 4, November 1982, Pages 465–470, https://doi.org/10.1093/comjnl/25.4.465.
+[1]: Elaine J. Weyuker, On Testing Non-Testable Programs, The Computer Journal, Volume 25, Issue 4, November 1982, Pages 465–470, https://doi.org/10.1093/comjnl/25.4.465.
 
 [^2]: Kshirasagar Naik and Priyadarshi Tripathy. 2018. Software Testing and Quality Assurance: Theory and Practice (2nd ed.). Wiley Publishing.
 
