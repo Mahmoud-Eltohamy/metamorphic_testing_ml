@@ -53,29 +53,28 @@ implementations solving the same problem verifying each other. The outputs of
 all implementations are compared, and if one of them is different, it could
 indicate that the algorithm has some faults in it [[^5]].
 
-[^4]: T. Y. Chen, S. C. Cheung, and S. M. Yiu, “Metamorphic testing: a new
-approach for generating next test cases,” Technical Report HKUST-CS98–01,
-Department of Computer Science, Hong Kong University of Science and Technology,
-Hong Kong, 1998.
-
-[^5]: Giannoulatou, E., Park, S. H., Humphreys, D. T., & Ho, J. W. ().
-Verification and validation of bioinformatics software without a gold standard:
-a case study of BWA and Bowtie. BMC bioinformatics, 15 Suppl 16(Suppl 16), S15.
-doi:10.1186/1471-2105-15-S16-S15
-
-![https://dzone.com/storage/temp/10106619-screen-shot-2018-08-29-at-104915-am.png](media/5b619f225d24bc31a788d78251148946.png)
+![alt text](media/5b619f225d24bc31a788d78251148946.png)
 
 ![alt text](./media/1851a2d9-59b6-4fe3-b4c4-4b01b8fdeeb0.jpg)
 ----------------------------------------
 
-Next steps
-----------
+## Next steps
 
 Actual implementation for an ml project testing using metamorphic testing (on
 going).
 
-Conclusion
-----------
+## Conclusion
 
 Using pseudo-oracles or metamorphic testing reduces testing effort and enables
 bug to be found that might otherwise be overlooked.
+
+[^1]: Elaine J. Weyuker, On Testing Non-Testable Programs, The Computer Journal, Volume 25, Issue 4, November 1982, Pages 465–470, https://doi.org/10.1093/comjnl/25.4.465.
+
+[^2]: Kshirasagar Naik and Priyadarshi Tripathy. 2018. Software Testing and Quality Assurance: Theory and Practice (2nd ed.). Wiley Publishing.
+
+[^3]: J. Carver, N. P. C. Hong, and G. K. Thiruvathukal, Eds., Software engineering for science. Boca Raton: Taylor & Francis, CRC Press, 2017.
+
+[^4]: T. Y. Chen, S. C. Cheung, and S. M. Yiu, “Metamorphic testing: a new approach for generating next test cases,” Technical Report HKUST-CS98–01, Department of Computer Science, Hong Kong University of Science and Technology, Hong Kong, 1998.
+
+[%5]: Giannoulatou, E., Park, S. H., Humphreys, D. T., & Ho, J. W. (). Verification and validation of bioinformatics software without a gold standard: a case study of BWA and Bowtie. BMC bioinformatics, 15 Suppl 16(Suppl 16), S15. doi:10.1186/1471-2105-15-S16-S15
+
