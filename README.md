@@ -1,4 +1,4 @@
-# Metamorphic Testing for Validation of ML/DL Models: A case Study Self Driving Cars 
+# Metamorphic Testing for Validation of ML/DL Models 
 ## The problem
 Find the suitable ways to solve the test Oracle problem [1] in AI/ML/DL
 software (in a simple way find an approach to an end to end functional testing
@@ -51,11 +51,11 @@ indicate that the algorithm has some faults in it [5].
 
 
 ### Metamorphic Testing
-A software testing technique that can effectively address two fundamental problems in software testing: the **oracle problem** and **automated test case generation problem**.
+A software testing technique that can effectively address two fundamental problems in software testing: the **oracle problem** and **automated test case generation problem**. The main difference between MT and regular testing techniques is that MT does not focus on the verification of each componant of  the software under test (and therefore can be performed in the absence of an oracle). MT checks the relations among the inputs and outputs of multiple executions of the software. Such relations are called metamorphic relations (MRs) [6].
 
-The main difference between MT and regular testing techniques is that MT does not focus on the verification of each componant of  the software under test (and therefore can be performed in the absence of an oracle). MT checks the relations among the inputs and outputs of multiple executions of the software. Such relations are called metamorphic relations (MRs).
+## MT In ACtion
 
-## Current Implementations of MT
+### Metamorphic Testing of Navigation Software: A Pilot Study with Google Maps [7]
 
 
 
@@ -80,3 +80,6 @@ bug to be found that might otherwise be overlooked.
 
 [5]: Giannoulatou, E., Park, S. H., Humphreys, D. T., & Ho, J. W. (). Verification and validation of bioinformatics software without a gold standard: a case study of BWA and Bowtie. BMC bioinformatics, 15 Suppl 16(Suppl 16), S15. doi:10.1186/1471-2105-15-S16-S15
 
+[6] Tsong Yueh Chen, Fei-Ching Kuo, Huai Liu, Pak-Lok Poon, Dave Towey, T. H. Tse, and Zhi Quan Zhou. 2018. Metamorphic testing: A review of challenges and opportunities. ACM Computing Surveys 51, 1 (2018), 4:1–4:27.
+
+[7] Joshua Brown, Zhi Quan Zhou, and Yang-Wai Chow. 2018. Metamorphic testing of navigation software: A pilot study with Google Maps. In Proceedings of the 51st Annual Hawaii International Conference on System Sciences (HICSS-51). 5687–5696. Available: http://hdl.handle.net/10125/50602.
