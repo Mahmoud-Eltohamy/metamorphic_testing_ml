@@ -1,9 +1,10 @@
-# Metamorphic Testing for Validation of ML/DL Models
+# Metamorphic Testing for Validation of ML/DL Models: A case Study Self Driving Cars 
 ## The problem
 Find the suitable ways to solve the test Oracle problem [1] in AI/ML/DL
 software (in a simple way find an approach to an end to end functional testing
 for AI which considered as a non-testable system).
 ## Introduction
+### The Test Oracle
 In software testing, Test oracle is a mechanism that can tell you whether a
 program is working correctly or not. For the simplest case, an oracle could be a
 direct comparison of the output of the program with the correct answer.
@@ -18,7 +19,7 @@ type of parametric oracle).
 
 ![alt text](media/2f6ba4e32ba35027660e28d6d4096b47.jpg)
 
-## The ML System Under Test
+### The ML System Under Test
 
 Testing machine learning and AI algorithms is hard [3] as scientific software
 differs significantly from the development of more traditional business
@@ -46,20 +47,23 @@ indicate that the algorithm has some faults in it [5].
 
 ![alt text](./media/1851a2d9-59b6-4fe3-b4c4-4b01b8fdeeb0.jpg)
 
-## examples of tests applied
 
-metamorphic_testing_ml
 
-------------------------------
-In March 2018, Zhou and Sun applied metamorphic testing to driverless cars. They "detected fatal software faults in the LiDAR obstacle-perception module of self-driving cars and reported the alarming results eight days before Uber's deadly crash in Tempe, AZ" [16]. In August 2018, Google acquired GraphicsFuzz, a startup from Imperial College London, to apply metamorphic testing to graphics device drivers for Android smartphones [17]. 
+
+### Metamorphic Testing
+A software testing technique that can effectively address two fundamental problems in software testing: the **oracle problem** and **automated test case generation problem**.
+
+The main difference between MT and regular testing techniques is that MT does not focus on the verification of each componant of  the software under test (and therefore can be performed in the absence of an oracle). MT checks the relations among the inputs and outputs of multiple executions of the software. Such relations are called metamorphic relations (MRs).
+
+## Current Implementations of MT
+
+
+
+
+
 ------------------------------
 http://slides.com/karfianto/software-testing-and-analysis#/7
 ------------------------------
-
-## Next steps
-
-Actual implementation for an ml project testing using metamorphic testing (on
-going).
 
 ## Conclusion
 
