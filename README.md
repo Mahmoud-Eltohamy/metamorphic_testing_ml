@@ -36,17 +36,20 @@ conducted to the model will be limited by human efforts, and expanding the test
 cases, for example increasing the sampling size and varieties significantly with
 online testing, would be a problem.
 
-![alt text](media/2fb2c2d092dd96b9c3462a81455b1b8a.jpg)
+The key component of an autonomous vehicle is the perception module controlled by the underlying Deep Neural Network (DNN), the network takes input from different sensors like camera, light detection and ranging sensor (LiDAR), and IR (infrared) sensor that measure the environment and outputs the steering angle, braking, etc. necessary to maneuver the car safely under different
+conditions.
 
-Pseudo-oracle and metamorphic testing [4], means that we can have multiple
-implementations solving the same problem verifying each other. The outputs of
-all implementations are compared, and if one of them is different, it could
-indicate that the algorithm has some faults in it [5].
+![](media/42528cabfe25de76fa6d8613385fca35.jpg)
 
-![alt text](media/5b619f225d24bc31a788d78251148946.png)
+![](media/c8f4230e9912aa57a1cc052536b8b622.jpg)
 
-![alt text](./media/1851a2d9-59b6-4fe3-b4c4-4b01b8fdeeb0.jpg)
-
+The main idea is to develop an automated testing methodology for driven autonomous cars
+-   How do we systematically explore the input-output spaces of an autonomous
+    car DNN?
+-   How can we synthesize realistic inputs to automate such exploration?
+-   How can we optimize the exploration process?
+-   How do we automatically create a test oracle that can detect erroneous
+    behaviors without detailed manual specifications?
 
 
 
