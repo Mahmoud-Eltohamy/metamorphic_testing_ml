@@ -89,9 +89,12 @@ any lighting/weather conditions, blurring, or any affine transformations with
 small parameter values.
 
 ### Violations (sample bugs) --- chauffeur model 
-original
+#### original
+
 ![](media/1479425450387736225_arrow.jpg)
-rain
+
+#### rain
+
 ![](media/1479425450387736225_rain_arrow.jpg)
 
 
