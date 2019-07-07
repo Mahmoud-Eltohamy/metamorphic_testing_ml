@@ -56,17 +56,15 @@ The main idea is to develop an automated testing methodology for driven autonomo
 ### Metamorphic Testing
 A software testing technique that can effectively address two fundamental problems in software testing: the **oracle problem** and **automated test case generation problem**. The main difference between MT and regular testing techniques is that MT does not focus on the verification of each componant of  the software under test (and therefore can be performed in the absence of an oracle). MT checks the relations among the inputs and outputs of multiple executions of the software. Such relations are called metamorphic relations (MRs) [6].
 
-## MT In ACtion
+## MT In Action 
 
-### Metamorphic Testing of Navigation Software: A Pilot Study with Google Maps [7]
-
-
+(neuron coverage-directed (NDG) testing strategy)
 
 
 
-------------------------------
-http://slides.com/karfianto/software-testing-and-analysis#/7
-------------------------------
+
+
+
 
 ## Conclusion
 
