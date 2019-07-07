@@ -88,15 +88,15 @@ car’s steering angle should not change significantly for the same image under
 any lighting/weather conditions, blurring, or any affine transformations with
 small parameter values.
 
-### Violations (bugs) --- chauffeur model  
-| original|contrast(2.0)| original|contrast(2.0)|
-| -------------     | -------------  | -------- | ---------- |
-| ![](media/1479425572510052897_arrow.jpg) | ![](media/1479425572510052897_contrast_2.0_arrow.jpg)  | ![](media/1479425572360010147_arrow.jpg) | ![](media/1479425572360010147_contrast_2.0_arrow.jpg) |
+### Violations (sample bugs) --- chauffeur model 
 
+![original](media/1479425572510052897_arrow.jpg)
 
+![contrast_2.0](media/1479425572510052897_contrast_2.0_arrow.jpg)
 
+![original](media/1479425572360010147_arrow.jpg)
 
-
+![contrast_2.0](media/1479425572360010147_contrast_2.0_arrow.jpg)
 
 ## Conclusion
 
