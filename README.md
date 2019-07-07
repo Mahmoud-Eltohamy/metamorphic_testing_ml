@@ -91,7 +91,7 @@ small parameter values.
 ### Violations (bugs) --- chauffeur model  
 | original|contrast(2.0)| original|contrast(2.0)|
 | -------------     | -------------  | -------- | ---------- |
-| ![](media/1479425572510052897_arrow.jpg) | ![](media/1479425572510052897_contrast_2.0_arrow.jpg)  | ![](media/1479425572360010147_arrow.jpg) | <img src="media/1479425572360010147_contrast_2.0_arrow.jpg) |
+| ![](media/1479425572510052897_arrow.jpg) | ![](media/1479425572510052897_contrast_2.0_arrow.jpg)  | ![](media/1479425572360010147_arrow.jpg) | ![](media/1479425572360010147_contrast_2.0_arrow.jpg) |
 
 
 
