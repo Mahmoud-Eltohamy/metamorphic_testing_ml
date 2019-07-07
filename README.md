@@ -90,13 +90,13 @@ small parameter values.
 
 ### Violations (sample bugs) --- chauffeur model 
 
-![original](media/1479425572510052897_arrow.jpg)
+![alt text](media/1479425572510052897_arrow.jpg)
 
-![contrast_2.0](media/1479425572510052897_contrast_2.0_arrow.jpg)
+![alt text](media/1479425572510052897_contrast_2.0_arrow.jpg)
 
-![original](media/1479425572360010147_arrow.jpg)
+![alt text](media/1479425572360010147_arrow.jpg)
 
-![contrast_2.0](media/1479425572360010147_contrast_2.0_arrow.jpg)
+![alt text](media/1479425572360010147_contrast_2.0_arrow.jpg)
 
 ## Conclusion
 
